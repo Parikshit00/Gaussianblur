@@ -1,0 +1,3 @@
+/home/mr-one/Desktop/PCA-From-Scratch-MNIST/code/build/CMakeFiles/rebuild_cache.dir
+/home/mr-one/Desktop/PCA-From-Scratch-MNIST/code/build/CMakeFiles/edit_cache.dir
+/home/mr-one/Desktop/PCA-From-Scratch-MNIST/code/build/CMakeFiles/pca.dir
